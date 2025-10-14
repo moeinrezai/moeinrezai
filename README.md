@@ -5,13 +5,13 @@
 <img align="right" src="https://raw.githubusercontent.com/moeinrezai/moeinrezai/main/moein.jpg" width="300">
 
 ## 🛠 Technical Skills
-**Programming:** Python, Django, DRF, FastAPI
+**Programming:** Python, Django, DRF
 **Databases:** PostgreSQL, Redis, Django ORM
 **Tools:** Docker, Git, GitHub Actions, Nginx, Gunicorn
 **Testing:** Pytest, Locust, Django Testing Framework
 
 ## 💼 Experience
-**Backend Developer** at Hootam (2023-Present)
+
 - Developed secure role-based APIs with Django REST Framework
 - Implemented authentication systems and payment gateway integration
 - Designed scalable database models and API documentation
