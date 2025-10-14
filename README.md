@@ -1,8 +1,8 @@
 
+<img align="right" src="https://raw.githubusercontent.com/moeinrezai/moeinrezai/main/moein.jpg" width="300">
 # Moein Rezaei
 ### Backend Developer (Python/Django)
 
-<img align="right" src="https://raw.githubusercontent.com/moeinrezai/moeinrezai/main/moein.jpg" width="300">
 
 ## 🛠 Technical Skills
 **Programming:** Python, Django, DRF
