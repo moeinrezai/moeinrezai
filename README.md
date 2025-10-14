@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ### **Data Layer**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,7 +38,7 @@
 
 ## 🚀 **Professional Journey**
 
-### **Backend Lead** | Hootam `2023-Present`
+### **Backend Lead**
 
 **Architecture & Security**
 - Engineered enterprise-grade authentication systems with RBAC
@@ -90,7 +90,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moein-rezaie-846a61349)
 [![Email](https://img.shields.io/badge/Email-Business_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moeinrezaie516@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moeinrezai)
-[![Telegram](https://img.shields.io/badge/Telegram-Instant_Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moeinrezai)
+[![Telegram](https://img.shields.io/badge/Telegram-Instant_Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moein9401)
 
 </div>
 
