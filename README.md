@@ -93,7 +93,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moein-rezaie-846a61349)
 [![Email](https://img.shields.io/badge/Email-Business_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moeinrezaie516@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moeinrezai)
-[![Telegram](https://img.shields.io/badge/Telegram-Instant_Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moeinrezai)
+[![Telegram](https://img.shields.io/badge/Telegram-Instant_Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moein9401)
 
 </div>
 
@@ -194,11 +194,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-شبکه_حرفه‌ای-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moein-rezaie-846a61349)
-[![Email](https://img.shields.io/badge/Email-پرسش_کسب‌وکاری-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moeinrezaie516@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-نمونه_کار-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moeinrezai)
-[![Telegram](https://img.shields.io/badge/Telegram-چت_آنی-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moeinrezai)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moein-rezaie-846a61349)
+[![Email](https://img.shields.io/badge/Email-Business_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moeinrezaie516@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moeinrezai)
+[![Telegram](https://img.shields.io/badge/Telegram-Instant_Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moein9401)
 </div>
 
 ---
