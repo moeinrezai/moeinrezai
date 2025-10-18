@@ -99,7 +99,9 @@
 
 ---
 
-<br>
+<details>
+<summary><b>🇮🇷 نمایش نسخه کامل فارسی (کلیک کنید)</b></summary>
+
 <br>
 
 <div align="center" dir="rtl">
@@ -109,7 +111,7 @@
 # 💫 معین رضایی
 ### **معمار بک‌اند** | متخصص پایتون و جنگو
 
-*طراحی راه‌حل‌های مقیاس‌پذیر با دقت و اشتیاق*
+
 
 </div>
 
@@ -200,16 +202,13 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Instant_Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moein9401)
 </div>
 
+</details>
+
 ---
 
 <div align="center">
 
-
-</div>
-
-<div align="center">
-
-*آخرین بروزرسانی: دسامبر ۲۰۲۴*  
+*Last updated: October 2025*  
 ![Visitors](https://komarev.com/ghpvc/?username=moeinrezai&color=blueviolet&style=flat-square)
 
 </div>
