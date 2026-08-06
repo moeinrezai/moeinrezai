@@ -363,19 +363,9 @@ My main principles:
 * Prefer practical solutions over unnecessary complexity
 * Keep learning through real projects
 
----
 
-# 📊 GitHub Statistics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moeinrezai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinrezai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
