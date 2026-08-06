@@ -313,7 +313,7 @@ Production-oriented authentication and authorization system.
 
 `FastAPI` `Pydantic` `SQLAlchemy` `Alembic` `PostgreSQL` `JWT` `RBAC` `Docker`
 
-[View Project](https://github.com/moeinrezai/fastapi-auth-system)
+[View Project](https://github.com/moeinrezai/FastAPI-Authentication)
 
 ---
 
