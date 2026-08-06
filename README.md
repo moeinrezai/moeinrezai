@@ -560,7 +560,7 @@ Stack مورد استفاده:
 70.52 ثانیه
 ```
 
-[مشاهده پروژه](https://github.com/moeinrezai/fastapi-auth-system)
+[مشاهده پروژه](https://github.com/moeinrezai/FastAPI-Authentication)
 
 ---
 
@@ -629,19 +629,7 @@ Distributed Systems
 * رعایت استانداردهای Python
 * یادگیری از طریق پروژه‌های واقعی
 
----
 
-## 📊 آمار GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moeinrezai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinrezai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-
-</div>
-
----
 
 ## 📈 فعالیت GitHub
 
@@ -677,6 +665,5 @@ Distributed Systems
 
 <br><br>
 
-<i>Building. Learning. Improving.</i>
 
 </div>
