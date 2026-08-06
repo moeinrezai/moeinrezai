@@ -407,15 +407,9 @@ My main principles:
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/moeinrezai/moeinrezai/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 
-</div>
-
----
 
 ## 📫 Connect With Me
 
