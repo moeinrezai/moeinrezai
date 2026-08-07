@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="right" src="https://raw.githubusercontent.com/moeinrezai/moeinrezai/main/my-pic.png" width="300" style="border-radius: 20px;">
+<img align="right" src="https://raw.githubusercontent.com/moeinrezai/moeinrezai/main/my-pic1.png" width="300" style="border-radius: 20px;">
 
 # 💫 Moein Rezaei
 
