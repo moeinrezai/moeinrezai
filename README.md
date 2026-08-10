@@ -1,165 +1,655 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/moeinrezai/moeinrezai/main/my-pic1.png" width="250" style="border-radius: 20px; border: 3px solid #092E20;">
-  
-  # 💫 Moein Rezaie
-  ### **Lead Backend Developer**
-  #### Python • Django • Django REST Framework • FastAPI
 
-  <p>
-    <a href="https://github.com/moeinrezai?tab=followers">
-      <img src="https://img.shields.io/github/followers/moeinrezai?label=Followers&style=for-the-badge&logo=github&color=092E20">
-    </a>
-    <a href="mailto:moeinrezaie516@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://linkedin.com/in/moein-rezaie-846a61349">
-      <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  </p>
+<img align="right" src="https://raw.githubusercontent.com/moeinrezai/moeinrezai/main/my-pic1.png" width="300" style="border-radius: 20px;">
 
-  <p><i>Building secure, maintainable, and scalable backend systems with a focus on Clean Architecture.</i></p>
+# 💫 Moein Rezaei
+
+### **Backend Developer**
+
+### Python • Django • Django REST Framework • FastAPI
+
+<p>
+  <a href="https://github.com/moeinrezai">
+    <img src="https://img.shields.io/github/followers/moeinrezai?label=Followers&style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/moeinrezai?tab=repositories">
+    <img src="https://img.shields.io/github/stars/moeinrezai?affiliations=OWNER&style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<p>
+Building secure, maintainable and scalable backend systems
+</p>
+
+</div>
+
+<br clear="both">
+
+---
+
+## 👨‍💻 About Me
+
+I am a Python Backend Developer focused on building secure, maintainable and scalable backend systems.
+
+My main stack is Django and Django REST Framework, with FastAPI for modern asynchronous API development.
+
+My interests and practical focus include backend architecture, REST APIs, authentication and authorization, API security, database design, testing and production infrastructure.
+
+I enjoy learning by building real projects and turning concepts into working backend systems.
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" />
+
+<br>
+
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+
+### Database & Data
+
+<img src="https://skillicons.dev/icons?i=postgresql,redis&theme=dark" />
+
+<br>
+
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-4B5563?style=for-the-badge\&logo=alembic\&logoColor=white)
+![Django ORM](https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+
+### DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions&theme=dark" />
+
+<br>
+
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge\&logo=gunicorn\&logoColor=white)
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+<br>
+
+![Black](https://img.shields.io/badge/Black-000000?style=for-the-badge\&logo=python\&logoColor=white)
+![Flake8](https://img.shields.io/badge/Flake8-4B8BBE?style=for-the-badge\&logo=python\&logoColor=white)
+![Faker](https://img.shields.io/badge/Faker-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
 </div>
 
 ---
 
-## 🇬🇧 English
+## 🔐 Backend Security
 
-### 👨‍💻 About Me
-I am a **Lead Backend Developer** specializing in designing and implementing secure, scalable RESTful APIs using **Django** and **Django REST Framework (DRF)**. Currently, I lead the backend team at **Hooshbina**, architecting an AI-driven educational platform and collaborating closely with **React** frontend teams to deliver seamless API integrations. 
+Security is one of my main areas of interest in backend development.
 
-My engineering philosophy is simple: **Prioritize accuracy, maintainability, and security above all else.** I believe backend code should not only work today but remain understandable and robust as the system scales.
+### Authentication
 
-### 🚀 Core Competencies & Django Architecture
-*   **Advanced Authentication:** Implementing **JWT** with Access/Refresh tokens, **Token Blacklisting** (to revoke compromised tokens), Refresh Token Rotation, and secure **Email-based Authentication** flows.
-*   **Security & RBAC:** Designing granular **DRF Permissions** (Object-Level Access Control), Role-Based Access Control (RBAC), Rate Limiting, and CSRF/XSS protection.
-*   **Clean Architecture:** Writing strict **PEP 8** compliant code (enforced via `Black` & `Flake8`), separating Business Logic from Views, and designing robust **Serializers** for complex data validation.
-*   **API Documentation:** Standardizing API contracts with **Swagger/OpenAPI** and Postman to ensure smooth handoffs and integration with Frontend teams (React/Next.js).
-*   **Performance Optimization:** Resolving `N+1` query issues, advanced PostgreSQL indexing, **Redis** caching, and **Celery** for asynchronous background tasks.
+* JWT Authentication
+* Access and Refresh Tokens
+* Refresh Token Rotation
+* Token Blacklisting
+* Token Reuse Detection
+* HttpOnly Cookies
+* Authorization Header
+* Device Identification
+* Session Management
+* Session Revocation
 
-### 💼 Professional Experience
-*   🏢 **Lead Backend Developer @ Hooshbina**
-    *   Leading a 3-developer team for an AI-powered educational platform.
-    *   Architecting scalable APIs and integrating them seamlessly with a **React** frontend.
-    *   Implementing Redis caching and Celery for critical async workflows.
-*   🏢 **Backend Developer @ Hootam**
-    *   Reduced average query response time by **40%** through PostgreSQL index optimization.
-    *   Built transaction-safe business logic and JWT-based Auth with device tracking.
-*   🏢 **Backend Developer @ Paksaaz Shimi**
-    *   Designed complex DRF serializers and validation pipelines, reducing API error rates.
-*   🏢 **Technical Consultant @ Memari Salaar**
-    *   Migrated legacy systems to maintainable Django REST APIs and designed `n8n` automation workflows (99.9% uptime).
+### Authorization
 
-### 🐳 My Approach to DevOps (Beginner-Friendly Guide)
-I believe DevOps should not be a black box. Here is how I explain it to junior developers and team members:
-1.  **Docker (The Shipping Container):** Think of Docker as a standardized box for your code. If the code works on my machine inside this box, it will work exactly the same way on the production server. I use `Dockerfile` to build the environment and `docker-compose.yml` to spin up Django, PostgreSQL, and Redis together locally.
-2.  **CI/CD (The Automated Assistant):** CI/CD (via GitHub Actions) is like a strict gatekeeper. Every time you push code, it automatically runs `flake8` (style check), `black` (formatting), and `pytest` (tests). If any test fails, the deployment stops. This guarantees that broken code never reaches production.
+* Role-Based Access Control
+* Permission Systems
+* Object-Level Access Control
+* User and Admin Permissions
+* Role-based API access
 
-### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-FF0000?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+### API Security
+
+* CSRF Protection
+* Rate Limiting
+* Account Lockout
+* Security Logging
+* IP Tracking
+* User-Agent Tracking
+* Secure Cookie Configuration
+* Authentication and Authorization flows
 
 ---
 
-<div dir="rtl" align="right">
+## ⚡ FastAPI
 
-## 🇮🇷 فارسی
+I have been working with FastAPI to build modern asynchronous APIs and understand the architecture behind production-oriented Python API services.
 
-### 👨‍💻 درباره من
-من **معین رضایی**، برنامه‌نویس ارشد بک‌اند (Lead Backend Developer) با تخصص در طراحی و پیاده‌سازی APIهای امن، مقیاس‌پذیر و قابل نگهداری با استفاده از **Django** و **Django REST Framework (DRF)** هستم. در حال حاضر به عنوان رهبر تیم بک‌اند در **هوشبینا (Hooshbina)** مشغول به کار هستم؛ جایی که معماری یک پلتفرم آموزشی مبتنی بر هوش مصنوعی را بر عهده دارم و همکاری بسیار نزدیکی با تیم‌های فرانت‌اند (**React**) برای یکپارچه‌سازی APIها دارم.
+My FastAPI stack includes:
 
-فلسفه مهندسی من کاملاً شفاف است: **اولویت همیشگی با دقت، قابلیت نگهداری (Maintainability) و امنیت است.** کد بک‌اند نباید فقط امروز کار کند، بلکه باید با رشد سیستم همچنان قابل فهم و مستحکم باقی بماند.
+```text
+FastAPI
+├── Pydantic
+├── SQLAlchemy
+├── Alembic
+├── JWT Authentication
+├── RBAC
+├── Session Management
+├── PostgreSQL
+├── Swagger / OpenAPI
+├── Automated Testing
+└── Docker
+```
 
-### 🚀 تخصص‌های کلیدی و معماری Django
-*   **احراز هویت پیشرفته:** پیاده‌سازی **JWT** با مکانیزم‌های Access/Refresh، **بلک‌لیست کردن توکن‌ها** (برای ابطال توکن‌های سرقت شده)، چرخش توکن (Token Rotation) و جریان‌های امن **احراز هویت مبتنی بر ایمیل (Email Auth)**.
-*   **امنیت و سطح دسترسی (RBAC):** طراحی **Permissionهای سفارشی در DRF** (کنترل دسترسی در سطح شیء)، کنترل دسترسی بر اساس نقش، Rate Limiting و محافظت در برابر CSRF.
-*   **معماری تمیز (Clean Architecture):** نوشتن کدهای کاملاً منطبق بر استاندارد **PEP 8** (با استفاده از `Black` و `Flake8`)، جداسازی Business Logic از Viewها و طراحی **Serializerهای قدرتمند** برای اعتبارسنجی دقیق داده‌ها.
-*   **داکیومنتیشن API:** استانداردسازی قراردادهای API با **Swagger/OpenAPI** و Postman برای تحویل بی‌نقص پروژه به تیم‌های فرانت‌اند (React).
-*   **بهینه‌سازی پرفورمنس:** رفع مشکلات حاد `N+1` در کوئری‌ها، ایندکس‌گذاری پیشرفته در PostgreSQL، کش‌گذاری با **Redis** و استفاده از **Celery** برای پردازش‌های غیرهمگام (Async).
+### Featured FastAPI Project
 
-### 💼 سوابق حرفه‌ای
-*   🏢 **رهبر تیم بک‌اند @ هوشبینا (Hooshbina)**
-    *   مدیریت و راهبری تیم ۳ نفره توسعه برای یک پلتفرم آموزشی مبتنی بر AI.
-    *   معماری APIهای مقیاس‌پذیر و یکپارچه‌سازی کامل آن‌ها با فرانت‌اند **React**.
-    *   پیاده‌سازی Redis و Celery برای ورک‌فلوهای حیاتی و زمان‌بر.
-*   🏢 **توسعه‌دهنده بک‌اند @ هوتام (Hootam)**
-    *   کاهش **۴۰ درصدی** زمان پاسخ‌دهی کوئری‌ها از طریق بهینه‌سازی ایندکس‌های PostgreSQL.
-    *   توسعه منطق تجاری Transaction-Safe و سیستم Auth مبتنی بر JWT با ردیابی دستگاه.
-*   🏢 **توسعه‌دهنده بک‌اند @ پاکساز شیمی**
-    *   طراحی سریالایزرها و پایپ‌لاین‌های اعتبارسنجی پیچیده در DRF برای کاهش خطاهای API.
-*   🏢 **مشاور فنی @ معماری سالار**
-    *   مهاجرت سیستم‌های قدیمی (Legacy) به Django REST API و طراحی اتوماسیون با `n8n` (دستیابی به Uptime 99.9%).
+<a href="https://github.com/moeinrezai/fastapi-auth-system">
 
-### 🐳 رویکرد من به Docker و CI/CD (آموزش به تیم و مبتدیان)
-من معتقدم DevOps نباید یک جعبه سیاه باشد. اینگونه آن را به توسعه‌دهندگان جونیور توضیح می‌دهم:
-1.  **داکر (Docker - کانتینر حمل و نقل):** داکر مثل یک جعبه استاندارد برای کد شماست. اگر کد روی سیستم من درون این جعبه کار کند، دقیقاً به همان شکل روی سرور پروداکشن هم کار خواهد کرد. من از `Dockerfile` برای ساخت محیط و از `docker-compose.yml` برای بالا آوردن همزمان Django، PostgreSQL و Redis در لوکال استفاده می‌کنم.
-2.  **CI/CD (دستیار خودکار):** CI/CD (توسط GitHub Actions) مثل یک نگهبان سخت‌گیر است! هر بار که کدی را Push می‌کنید، به صورت خودکار `flake8` (بررسی استایل)، `black` (فرمت کردن) و `pytest` (تست‌ها) را اجرا می‌کند. اگر حتی یک تست فیل شود، متوقف می‌شود. این تضمین می‌کند که کد خراب هرگز به Production نرسد.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=moeinrezai&repo=fastapi-auth-system&theme=tokyonight&hide_border=true">
 
-### 🧰 تکنولوژی‌ها
-<div align="right">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/DRF-FF0000?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
-  <img src="https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+</a>
+
+A production-oriented authentication and authorization system focused on JWT, RBAC, session management and API security.
+
+### Project Highlights
+
+* JWT Access and Refresh Tokens
+* Refresh Token Rotation
+* Token Reuse Detection
+* HttpOnly Cookie Authentication
+* Device Identification
+* Session Management
+* RBAC
+* Rate Limiting
+* Account Lockout
+* Security Logs
+* User Management
+* Ticket System
+* Swagger UI
+* Automated Tests
+* PostgreSQL
+* SQLAlchemy
+* Alembic
+* Docker-ready architecture
+
+Latest test run:
+
+```text
+106 tests passed
+0 tests failed
+64% overall coverage
+5 warnings
+70.52 seconds
+```
+
+---
+
+## 🚀 Django & Django REST Framework
+
+Django and Django REST Framework are my primary backend technologies.
+
+Areas I work with include:
+
+* REST API development
+* Custom User Models
+* JWT Authentication
+* Permissions
+* RBAC
+* Django ORM
+* QuerySet optimization
+* PostgreSQL
+* Redis
+* Celery
+* Signals
+* Middleware
+* Management Commands
+* API documentation
+* Security best practices
+* Production configuration
+
+---
+
+## 🐳 DevOps & Production
+
+I am also expanding my backend skills toward deployment and production infrastructure.
+
+### Containerization
+
+* Docker
+* Docker Compose
+* Multi-container applications
+* Environment configuration
+* Development and production environments
+
+### Web Infrastructure
+
+* Nginx
+* Gunicorn
+* Linux
+* Reverse Proxy
+* Application deployment concepts
+
+### CI/CD
+
+* GitHub Actions
+* Automated workflows
+* Testing automation
+* Deployment concepts
+
+---
+
+## 🧪 Testing & Code Quality
+
+I believe backend development should include testing and code quality from the beginning.
+
+Tools and practices I work with:
+
+* Pytest
+* API Testing
+* Authentication Testing
+* Permission Testing
+* Integration Testing
+* Coverage
+* Black
+* Flake8
+* PEP 8
+* Type Hints
+* Clean and maintainable code
+
+---
+
+## 🏗️ Engineering Focus
+
+<div align="center">
+
+| Area            | Focus                                |
+| --------------- | ------------------------------------ |
+| 🐍 Python       | Backend development                  |
+| 🌐 APIs         | RESTful API design                   |
+| 🔐 Security     | Authentication and Authorization     |
+| 🧩 Architecture | Maintainable backend systems         |
+| 🗄️ Database    | PostgreSQL and ORM design            |
+| ⚡ Async         | FastAPI and asynchronous Python      |
+| 🐳 DevOps       | Docker and production infrastructure |
+| 🧪 Testing      | Reliable and testable systems        |
+| 📦 Open Source  | Practical projects and collaboration |
+
 </div>
 
-</div>
+---
+
+## 📚 Currently Learning & Improving
+
+```text
+Advanced FastAPI
+        ↓
+Async Python
+        ↓
+Advanced API Security
+        ↓
+Docker & Production Deployment
+        ↓
+CI/CD
+        ↓
+Scalable Backend Architecture
+        ↓
+Distributed Systems
+```
+
+I prefer learning these concepts through practical projects rather than only theoretical study.
 
 ---
 
 ## 🏆 Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <h3>🔐 FastAPI Authentication System</h3>
-      <p>A production-oriented authentication and authorization system focused on JWT, RBAC, session management, and API security. Includes automated testing and Docker-ready architecture.</p>
-      <b>Stack:</b> FastAPI, Pydantic, SQLAlchemy, Alembic, PostgreSQL, Docker.
-      <br><br>
-      <a href="https://github.com/moeinrezai/fastapi-auth-system">View Repository ➔</a>
-    </td>
-    <td>
-      <h3>🏠 Real Estate Backend (Django)</h3>
-      <p>Scalable backend development for a real estate platform featuring property management, advanced search, and a robust API-based architecture optimized for frontend integration.</p>
-      <b>Stack:</b> Django, DRF, PostgreSQL, Redis, Celery.
-      <br><br>
-      <a href="https://github.com/moeinrezai">View Portfolio ➔</a>
-    </td>
-  </tr>
-</table>
+### 🔐 FastAPI Authentication System
+
+Production-oriented authentication and authorization system.
+
+**Stack**
+
+`FastAPI` `Pydantic` `SQLAlchemy` `Alembic` `PostgreSQL` `JWT` `RBAC` `Docker`
+
+[View Project](https://github.com/moeinrezai/FastAPI-Authentication)
+
+---
+
+### 🤖 Django DeepSeek Consultant
+
+A Django-based project focused on AI-assisted Django development, project architecture and code generation.
+
+**Stack**
+
+`Python` `Django` `DeepSeek API` `PostgreSQL` `Docker`
+
+---
+
+### 🏠 Real Estate Backend
+
+Backend development for a real estate platform with property management, users, search and API-based architecture.
+
+**Stack**
+
+`Python` `Django` `Django REST Framework` `PostgreSQL` `Redis`
+
+---
+
+## 🌱 Open Source
+
+I enjoy building projects that can be useful to other developers.
+
+My goal with open-source projects is not only to publish code but also to document real implementation decisions and make practical backend concepts easier to understand.
+
+Contributions, issues, suggestions and technical discussions are welcome.
 
 ---
 
 ## 💡 Technical Philosophy
 
-> *"Good backend code should not only work today. It should remain understandable, secure, and maintainable as the system grows."*
+> Good backend code should not only work today. It should remain understandable, secure and maintainable as the system grows.
 
-*   ✅ Keep architecture simple and layered.
-*   ✅ Separate responsibilities (Business Logic vs. API Views).
-*   ✅ Prioritize security (JWT Blacklisting, HttpOnly Cookies, Rate Limiting).
-*   ✅ Write maintainable code following PEP 8.
-*   ✅ Test important business logic (Pytest).
+My main principles:
+
+* Keep architecture simple and understandable
+* Separate responsibilities
+* Prioritize security
+* Write maintainable code
+* Test important business logic
+* Optimize only where it matters
+* Follow Python and PEP 8 conventions
+* Prefer practical solutions over unnecessary complexity
+* Keep learning through real projects
+
+
+
+
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=moeinrezai&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+
+
+
+
+
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moeinrezai&theme=tokyo-night&hide_border=true">
+
+</div>
+
+---
+
+
+
+
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/moein-rezaie-846a61349">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:moeinrezaie516@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/moeinrezai">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://t.me/moein9401">
+<img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<details>
+<summary><b>🇮🇷 نمایش نسخه فارسی</b></summary>
+
+<br>
+
+<div align="center" dir="rtl">
+
+# 💫 معین رضایی
+
+### **برنامه‌نویس بک‌اند**
+
+### Python • Django • Django REST Framework • FastAPI
+
+توسعه سیستم‌های امن، قابل نگهداری و مقیاس‌پذیر
+
+</div>
+
+---
+
+## 👨‍💻 درباره من
+
+من یک برنامه‌نویس بک‌اند Python هستم و تمرکز اصلی من روی توسعه API و سیستم‌های Backend است.
+
+تکنولوژی‌های اصلی من Django و Django REST Framework هستند و در کنار آن با FastAPI برای توسعه APIهای مدرن و Async کار می‌کنم.
+
+به معماری بک‌اند، امنیت API، احراز هویت، Authorization، طراحی دیتابیس، تست و زیرساخت Production علاقه‌مندم.
+
+بخش مهمی از یادگیری من از طریق ساخت پروژه‌های واقعی و پیاده‌سازی عملی مفاهیم انجام می‌شود.
+
+---
+
+## 🧰 تکنولوژی‌ها
+
+### Backend
+
+`Python` `Django` `Django REST Framework` `FastAPI` `Pydantic`
+
+### Database
+
+`PostgreSQL` `Redis` `SQLAlchemy` `Alembic` `Django ORM`
+
+### Authentication & Security
+
+`JWT` `RBAC` `OAuth` `Session Management` `HttpOnly Cookie`
+
+### DevOps
+
+`Docker` `Docker Compose` `Nginx` `Linux` `Gunicorn`
+
+### Development
+
+`Git` `GitHub` `GitHub Actions` `Pytest` `Black` `Flake8` `Faker`
+
+---
+
+## 🔐 امنیت و احراز هویت
+
+تمرکز ویژه‌ای روی Authentication و Authorization و امنیت API دارم.
+
+مباحثی که روی آن‌ها کار کرده‌ام:
+
+* JWT Authentication
+* Access و Refresh Token
+* Refresh Token Rotation
+* Token Blacklisting
+* Token Reuse Detection
+* HttpOnly Cookie
+* CSRF Protection
+* RBAC
+* Permission Systems
+* Session Management
+* Device Identification
+* IP و User-Agent Tracking
+* Rate Limiting
+* Account Lockout
+* Security Logging
+
+---
+
+## ⚡ FastAPI
+
+در کنار Django روی FastAPI نیز کار می‌کنم و هدفم توسعه APIهای مدرن و Async و آشنایی عمیق‌تر با معماری Production است.
+
+Stack مورد استفاده:
+
+`FastAPI` `Pydantic` `SQLAlchemy` `Alembic` `PostgreSQL` `JWT` `RBAC` `Docker`
+
+---
+
+## 🏆 پروژه شاخص
+
+### 🔐 FastAPI Authentication System
+
+یک سیستم احراز هویت و Authorization با تمرکز روی امنیت، RBAC و مدیریت Session.
+
+ویژگی‌ها:
+
+* JWT
+* Access و Refresh Token
+* Refresh Token Rotation
+* HttpOnly Cookie
+* Device Identification
+* Session Management
+* RBAC
+* Rate Limiting
+* Account Lockout
+* Security Logs
+* Ticket System
+* Swagger UI
+* Automated Tests
+* PostgreSQL
+* SQLAlchemy
+* Alembic
+* Docker
+
+آخرین اجرای تست:
+
+```text
+106 تست موفق
+0 تست ناموفق
+64 درصد Coverage
+5 Warning
+70.52 ثانیه
+```
+
+[مشاهده پروژه](https://github.com/moeinrezai/FastAPI-Authentication)
+
+---
+
+## 🐳 DevOps و زیرساخت
+
+در کنار توسعه Backend روی مفاهیم Deployment و زیرساخت نیز کار می‌کنم.
+
+* Docker
+* Docker Compose
+* Nginx
+* Gunicorn
+* Linux
+* GitHub Actions
+* CI/CD
+* Production Configuration
+
+---
+
+## 🧪 تست و کیفیت کد
+
+* Pytest
+* API Testing
+* Integration Testing
+* Authentication Testing
+* Permission Testing
+* Coverage
+* Black
+* Flake8
+* PEP 8
+* Type Hints
+
+---
+
+## 📚 در حال توسعه مهارت
+
+```text
+FastAPI پیشرفته
+      ↓
+Async Python
+      ↓
+امنیت پیشرفته API
+      ↓
+Docker و Deployment
+      ↓
+CI/CD
+      ↓
+معماری Backend مقیاس‌پذیر
+      ↓
+Distributed Systems
+```
+
+---
+
+## 💡 نگرش فنی
+
+> کد خوب فقط کدی نیست که امروز درست کار کند. باید با رشد سیستم همچنان قابل فهم، امن و قابل نگهداری باقی بماند.
+
+اصول اصلی من:
+
+* معماری ساده و قابل فهم
+* جداسازی مسئولیت‌ها
+* توجه به امنیت
+* کدنویسی قابل نگهداری
+* تست بخش‌های مهم
+* بهینه‌سازی در جای درست
+* رعایت استانداردهای Python
+* یادگیری از طریق پروژه‌های واقعی
+
+
+
+## 📈 فعالیت GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moeinrezai&theme=tokyo-night&hide_border=true">
+
+</div>
+
+---
+
+## 📞 ارتباط با من
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/moein-rezaie-846a61349)
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:moeinrezaie516@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/moeinrezai)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/moein9401)
+
+</div>
+
+</details>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moeinrezai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Moein's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=moeinrezai&theme=tokyonight&hide_border=true&background=0D1117" alt="Moein's GitHub streak" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=moeinrezai&color=blueviolet&style=flat-square&label=Profile+Views">
+<img src="https://komarev.com/ghpvc/?username=moeinrezai&color=blueviolet&style=flat-square&label=Profile+Views">
+
+<br><br>
+
+
 </div>
