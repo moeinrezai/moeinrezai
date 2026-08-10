@@ -1,47 +1,62 @@
+
+
+
+<!-- Header / Hero -->
 <div align="center">
 
-<img align="right" src="https://raw.githubusercontent.com/moeinrezai/moeinrezai/main/my-pic1.png" width="280" style="border-radius: 20px;" alt="Moein Rezaie"/>
+<img align="right" src="https://raw.githubusercontent.com/moeinrezai/moeinrezai/main/my-pic1.png" width="260" style="border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Moein Rezaie"/>
 
-# 💫 Moein Rezaie
+# 💻 Moein Rezaie
 
-### Backend Developer · Python · Django · DRF · FastAPI
+### Python Backend Developer · Django · DRF · FastAPI
 
-**Building secure, maintainable and scalable RESTful APIs — 5+ years of experience**
+**Building secure, maintainable & scalable RESTful APIs — 5+ years of experience**
 
-<p>
-  <a href="https://github.com/moeinrezai">
-    <img src="https://img.shields.io/github/followers/moeinrezai?label=Followers&style=for-the-badge&logo=github&color=6366F1" alt="Followers"/>
-  </a>
-  <a href="https://github.com/moeinrezai?tab=repositories">
-    <img src="https://img.shields.io/github/stars/moeinrezai?affiliations=OWNER&style=for-the-badge&logo=github&color=6366F1" alt="Stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=moeinrezai&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</p>
+<br>
 
-<p>
-  <a href="https://linkedin.com/in/moein-rezaie-846a61349"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:moeinrezaie516@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://t.me/moein9401"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-</p>
+<!-- Stats Badges -->
+<a href="https://github.com/moeinrezai">
+  <img src="https://img.shields.io/github/followers/moeinrezai?label=Followers&style=for-the-badge&logo=github&color=6366F1" alt="Followers"/>
+</a>
+<a href="https://github.com/moeinrezai?tab=repositories">
+  <img src="https://img.shields.io/github/stars/moeinrezai?affiliations=OWNER&style=for-the-badge&logo=github&color=6366F1" alt="Stars"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=moeinrezai&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
-📍 Mazandaran, Iran
+<br><br>
+
+<!-- Social Links -->
+<a href="https://linkedin.com/in/moein-rezaie-846a61349">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:moeinrezaie516@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://t.me/moein9401">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+
+<br><br>
+
+📍 **Mazandaran, Iran**
 
 </div>
-
-<br clear="both"/>
 
 ---
 
 ## 👨‍💻 About Me
 
-Python **Backend Developer** with **5+ years** of experience designing and shipping secure, maintainable and scalable RESTful APIs. My core stack is **Django / Django REST Framework**, complemented by **FastAPI** for modern asynchronous services.
+I'm a **Python Backend Developer** with **5+ years** of experience designing and shipping secure, maintainable, and scalable RESTful APIs. My core stack revolves around **Django & Django REST Framework**, complemented by **FastAPI** for modern asynchronous services.
 
-I focus on backend architecture, authentication & authorization, API security, database optimization, testing and production infrastructure — and I have led backend teams delivering AI-powered platforms and commercial applications.
+I specialize in:
 
-- 🔭 Deep expertise in **Django, DRF, FastAPI, PostgreSQL, Redis**
-- 🔐 Specialized in **JWT / RBAC authentication** and **API security**
-- ⚡ Passionate about **performance optimization** and **clean, testable code**
-- 🧭 Experience as **Lead Backend Developer** and **Technical Consultant**
+- Backend architecture & API design
+- Authentication & authorization (JWT, RBAC, sessions)
+- API security & performance optimization
+- Database engineering (PostgreSQL, Redis)
+- Production infrastructure (Docker, CI/CD)
+
+Beyond code, I've led backend teams and acted as a technical consultant for AI-powered platforms and commercial applications — always striving for clean, testable, and well-documented systems.
 
 ---
 
@@ -53,7 +68,7 @@ I focus on backend architecture, authentication & authorization, API security, d
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" alt="Backend"/>
 
-![Django REST Framework](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
@@ -90,34 +105,49 @@ I focus on backend architecture, authentication & authorization, API security, d
 
 ## 💼 Professional Experience
 
-### 🧭 Memari Salaar — Technical Consultant & API/Database Team Lead
-Provided technical leadership while revamping legacy systems and automation.
-- Consulted on backend architecture, migrating legacy modules to a maintainable **Django REST API**.
-- Resolved severe search performance issues by redesigning **PostgreSQL indexes** and query strategies.
-- Designed **n8n** automation workflows syncing data across Telegram/Rubika bots, cutting manual data entry by **50%**.
-- Led a team to stabilize the production API, achieving **99.9% uptime** over six months.
-
-### 🎓 Hooshbina — Lead Backend Developer
-Led a backend team for AI-powered educational and consulting platforms.
-- Directed backend development of an AI-driven online education platform, coordinating a team of **3 developers**.
-- Architected scalable API structures and **RBAC / permission systems** from the ground up.
-- Mentored the team on code quality, testing and performance — reducing post-release defects by **~30%**.
-- Implemented **Redis caching** and **Celery** asynchronous task processing for critical workflows.
-
-### 🔧 Hootam — Backend Developer
-Focused on API architecture, security, database engineering and testing.
-- Reduced average query response time by **40%** via index optimization and eliminating N+1 patterns.
-- Implemented **JWT authentication** with refresh token rotation, RBAC and device identification.
-- Built **transaction-safe business logic** ensuring data integrity under high concurrency.
-- Containerized services with **Docker & Compose**, configured **Nginx / Gunicorn**, and set up **GitHub Actions** CI.
-- Developed comprehensive **Pytest** suites and **Locust** load tests, maintaining a **>90%** pass rate.
-
-### 🧪 Paksaaz Shimi — Backend Developer
-Delivered RESTful APIs and core business logic for commercial applications.
-- Architected API endpoints with **Django & DRF**, defining clear API contracts for the frontend.
-- Designed serializers and validation pipelines that reduced API error rates and improved data consistency.
-- Optimized complex queries and ORM usage, cutting page load times for data-heavy views.
-- Refactored legacy backend components, improving readability and reducing bug reports.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧭 Memari Salaar — Technical Consultant & API/Database Lead</h3>
+      <ul>
+        <li>Consulted on backend architecture, migrating legacy modules to a maintainable <strong>Django REST API</strong>.</li>
+        <li>Resolved severe search performance issues by redesigning <strong>PostgreSQL indexes</strong> and query strategies.</li>
+        <li>Designed <strong>n8n</strong> automation workflows syncing data across Telegram/Rubika bots, cutting manual data entry by <strong>50%</strong>.</li>
+        <li>Led the team to stabilize the production API, achieving <strong>99.9% uptime</strong> over six months.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🎓 Hooshbina — Lead Backend Developer</h3>
+      <ul>
+        <li>Directed backend development of an AI-driven online education platform, coordinating a team of <strong>3 developers</strong>.</li>
+        <li>Architected scalable API structures and <strong>RBAC / permission systems</strong> from the ground up.</li>
+        <li>Mentored the team on code quality, testing and performance — reducing post‑release defects by <strong>~30%</strong>.</li>
+        <li>Implemented <strong>Redis caching</strong> and <strong>Celery</strong> asynchronous task processing for critical workflows.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔧 Hootam — Backend Developer</h3>
+      <ul>
+        <li>Reduced average query response time by <strong>40%</strong> via index optimization and eliminating N+1 patterns.</li>
+        <li>Implemented <strong>JWT authentication</strong> with refresh token rotation, RBAC and device identification.</li>
+        <li>Built <strong>transaction-safe business logic</strong> ensuring data integrity under high concurrency.</li>
+        <li>Containerized services with <strong>Docker & Compose</strong>, configured <strong>Nginx / Gunicorn</strong>, and set up <strong>GitHub Actions</strong> CI.</li>
+        <li>Developed comprehensive <strong>Pytest</strong> suites and <strong>Locust</strong> load tests, maintaining a <strong>>90%</strong> pass rate.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🧪 Paksaaz Shimi — Backend Developer</h3>
+      <ul>
+        <li>Architected API endpoints with <strong>Django & DRF</strong>, defining clear API contracts for the frontend.</li>
+        <li>Designed serializers and validation pipelines that reduced API error rates and improved data consistency.</li>
+        <li>Optimized complex queries and ORM usage, cutting page load times for data-heavy views.</li>
+        <li>Refactored legacy backend components, improving readability and reducing bug reports.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -140,11 +170,11 @@ Delivered RESTful APIs and core business logic for commercial applications.
 <td valign="top" width="33%">
 
 **Authorization**
-- Role-Based Access Control
+- Role‑Based Access Control
 - Permission Systems
-- Object-Level Access Control
+- Object‑Level Access Control
 - User / Admin Permissions
-- Role-based API access
+- Role‑based API access
 
 </td>
 <td valign="top" width="33%">
@@ -154,7 +184,7 @@ Delivered RESTful APIs and core business logic for commercial applications.
 - Rate Limiting
 - Account Lockout
 - Security & Audit Logging
-- IP / User-Agent Tracking
+- IP / User‑Agent Tracking
 - Secure Cookie Configuration
 
 </td>
@@ -189,12 +219,12 @@ Latest test run
 ---
 
 ### 🤖 Django DeepSeek Consultant
-A Django project for AI-assisted Django development, project architecture and code generation.
+A Django project for AI‑assisted Django development, project architecture and code generation.
 
 `Python` · `Django` · `DeepSeek API` · `PostgreSQL` · `Docker`
 
 ### 🏠 Real Estate Backend
-Backend for a real estate platform with property management, users, advanced search and an API-first architecture.
+Backend for a real estate platform with property management, users, advanced search and an API‑first architecture.
 
 `Python` · `Django` · `DRF` · `PostgreSQL` · `Redis`
 
@@ -354,13 +384,26 @@ JWT · Refresh Token Rotation · Token Blacklisting · Token Reuse Detection · 
 
 <div align="center">
 
-<a href="https://linkedin.com/in/moein-rezaie-846a61349"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:moeinrezaie516@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/moeinrezai"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://t.me/moein9401"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://linkedin.com/in/moein-rezaie-846a61349">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:moeinrezaie516@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/moeinrezai">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://t.me/moein9401">
+  <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
 <br/><br/>
 
 <i>⭐ From <a href="https://github.com/moeinrezai">moeinrezai</a> — thanks for visiting!</i>
 
 </div>
+
+
+
+
+
