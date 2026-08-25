@@ -95,14 +95,7 @@ I don't chase shiny tools; these are what I reach for to get real work done.
 
 ---
 
-## 📊 GitHub stats (just for show)
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moeinrezai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinrezai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages"/>
-</div>
-
----
 
 ## 📫 Let's talk
 
