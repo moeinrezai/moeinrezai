@@ -104,20 +104,7 @@ I don't chase shiny tools; these are what I reach for to get real work done.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moeinrezai&show_icons=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Moein's GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinrezai&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moeinrezai&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
-
-</div>
-
----
 
 ## 📫 Let's talk
 
