@@ -30,7 +30,7 @@
 
 <br><br>
 
-📍 **Mazandaran, Iran**
+📍 **Iran, Mazandaran**
 
 </div>
 
@@ -115,5 +115,5 @@ I don't chase shiny tools; these are what I reach for to get real work done.
 <br>
 
 <div align="center">
-  <sub>Thanks for visiting. Now go write some clean code.</sub>
+  <sub>Thanks for visiting.</sub>
 </div>
