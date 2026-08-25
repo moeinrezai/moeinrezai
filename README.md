@@ -30,7 +30,7 @@
 
 <br><br>
 
-📍 **Iran, Mazandaran**
+📍 **Iran, Mazandaran** &nbsp;|&nbsp; 🟢 **Open to freelance / remote backend work**
 
 </div>
 
@@ -42,7 +42,7 @@ I've been building backend systems for about 4 years now – mostly with Python,
 
 My goal is simple: write code that works, stays secure, and doesn't make you cringe six months later. I've dealt with messy product databases, slow APIs, tricky permission systems, and async jobs that needed to be reliable.
 
-I don't claim to know everything. When I hit a wall, I dig until I understand the problem, then I fix it properly. No band‑aids.
+I don't claim to know everything. When I hit a wall, I dig until I understand the problem, then I fix it properly. No band-aids.
 
 ---
 
@@ -63,7 +63,7 @@ I don't claim to know everything. When I hit a wall, I dig until I understand th
 
 - **API performance fix** – on a HR platform, some endpoints were taking seconds. Added Redis caching and rewrote N+1 queries. Response time dropped by ~35% without changing business logic.
 
-- **Permission system** – built a role‑based system for different user types (admins, managers, staff). Mapped access rules in code, wrote tests for every edge case, made sure no one saw data they shouldn't.
+- **Permission system** – built a role-based system for different user types (admins, managers, staff). Mapped access rules in code, wrote tests for every edge case, made sure no one saw data they shouldn't.
 
 - **Async jobs** – moved email and notification processing to Celery, kept APIs snappy. Handled retries and failures gracefully.
 
@@ -76,6 +76,7 @@ I don't claim to know everything. When I hit a wall, I dig until I understand th
 - **[Drf-Authentication-JWT](https://github.com/moeinrezai/drf-authentication-jwt)** – DRF Authentication with JWT Modular, scalable JWT authentication system built with Django REST Framework. Includes user registration, login, token refresh, blacklist, and customizable permission logic. Designed for production-ready SaaS backends with atomic operations and clean API boundaries.
 
 - **[Django-Secure-Auth](https://github.com/moeinrezai/django-secure-auth)** – A security-focused Django REST Framework authentication platform featuring JWT access/refresh tokens, refresh token rotation and reuse detection, Iranian phone OTP authentication, Redis-based rate limiting and hybrid state management, session tracking, RBAC, audit logging, device/IP tracking, and comprehensive security testing.
+
 ---
 
 ## 🛠 Tech I actually use daily
@@ -95,10 +96,30 @@ I don't chase shiny tools; these are what I reach for to get real work done.
 
 ---
 
+## 📚 Currently learning / exploring
 
+- Advanced PostgreSQL performance tuning (query planning, partitioning)
+- Event-driven architectures with message queues
+- Deepening my n8n workflow automation skills
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=moeinrezai&show_icons=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Moein's GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinrezai&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moeinrezai&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+
+</div>
+
+---
 
 ## 📫 Let's talk
-
 
 <div align="center">
   <a href="https://linkedin.com/in/moein-rezaie-846a61349">
