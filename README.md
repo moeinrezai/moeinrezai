@@ -1,10 +1,10 @@
 <div align="center">
 
-<img align="right" src="https://raw.githubusercontent.com/moeinrezai/moeinrezai/main/my-pic1.png" width="260" style="border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Moein Rezaie"/>
+<img align="right" src="https://raw.githubusercontent.com/moeinrezai/moeinrezai/main/my-pic1.png" width="240" style="border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Moein Rezaie"/>
 
-# 💻 Moein Rezaie
+# Moein Rezaie
 
-### Python Backend Developer · Django · DRF · FastAPI
+**Backend Developer · Python · Django · FastAPI**
 
 <br>
 
@@ -36,85 +36,81 @@
 
 ---
 
-## 👨‍💻 About
+## 👋 Hi there
 
-I'm a backend developer with 4+ years of experience building APIs and data‑heavy systems using Python, Django, and FastAPI. I’ve worked on HR platforms, e‑commerce product databases, AI‑powered services, and B2B construction portals.
+I write backend code that doesn't make you cringe six months later.
 
-What I actually enjoy: designing clean APIs that don't break, making PostgreSQL queries faster, and setting up authentication that doesn't leak. I'm not the guy who knows everything, but I dig until I find the root cause and fix it properly.
+Python is my main tool. I've worked with Django, DRF, FastAPI, PostgreSQL, Redis, and Docker – but more importantly, I've learned how to keep things **simple, secure, and maintainable** even when requirements change mid‑sprint.
 
----
-
-## 🛠 Tech Stack (one line)
-
-**Backend:** Python, Django, DRF, FastAPI, Pydantic  
-**DB & Cache:** PostgreSQL, Redis, Django ORM, SQLAlchemy  
-**Infra:** Docker, Nginx, Gunicorn, GitHub Actions, Linux  
-**Testing:** Pytest, Locust  
-**Others:** Celery, JWT, RBAC, OpenAPI, n8n
+I don't claim to know everything. When I hit a wall, I dig until I understand the problem, then I fix it properly. No band‑aids.
 
 ---
 
-## 💼 Experience
+## 🧭 What I focus on
 
-### Hootam — Backend Developer (2024–present)
-- Built REST APIs (`/api/v1`) for a Smart HR platform used by enterprise clients.  
-- Implemented JWT + RBAC with role‑based permissions (HR staff, managers, admins).  
-- Used Redis caching on frequent endpoints – cut average response time by ~35%.  
-- Offloaded email/notification jobs to Celery, keeping sync APIs responsive.  
-- Wrote 200+ Pytest tests covering auth, permissions, and business logic.
-
-### Paksaaz Shimi — Backend Developer (2023–2024)
-- Maintained product models for 250+ items with variants (size, colour, material).  
-- Added composite indexes and rewrote heavy ORM queries – improved product listing speed noticeably.  
-- Built an alias/synonym system to unify inconsistent product names from legacy data.
-
-### Hooshbina — Lead Backend Developer (2022–2023)
-- Led a small team building backend for an AI‑powered online education platform.  
-- Designed RBAC for students, instructors, and support managers.  
-- Integrated Redis caching and Celery for async tasks.  
-- Also worked on an AI real‑estate platform: added image/map analysis (via AI) to extract property info, and Persian voice search support.
-
-### Memari Salaar — Technical Consultant (2021–2022)
-- Managed a PostgreSQL database with 10,000+ construction products (inconsistent naming, multiple brands/languages).  
-- Normalized data, added unique constraints and indexes – made search usable.  
-- Built n8n automation workflows for product price updates and messaging bots on Bale/Rubika.  
-- Designed a JSON metadata structure to extract key attributes (size, brand, category) from messy product titles.
+- Building REST APIs that are a pleasure to consume (versioned, documented, consistent)
+- Authentication & authorization that actually works (JWT, RBAC, sessions, tokens)
+- Making PostgreSQL queries fast – indexing, query planning, and ORM tuning
+- Background jobs with Celery + Redis without making the system fragile
+- Writing tests that catch bugs before they reach production
+- Keeping the whole thing running with Docker, Nginx, and some GitHub Actions
 
 ---
 
-## 🚀 Featured Project
+## 🔥 A few real problems I've solved
 
-### FastAPI Authentication System  
-A security‑focused auth backend with JWT, refresh token rotation, blacklisting, HttpOnly cookies, device tracking, and RBAC.  
-**Stack:** FastAPI, Pydantic, SQLAlchemy, PostgreSQL, Docker  
-**Tests:** 106 passed, 64% coverage (ongoing).  
-[Repository →](https://github.com/moeinrezai/FastAPI-Authentication)
+- **Messy product data** – worked with a database of 10,000+ construction products where names were inconsistent, brands mixed, and units all over the place. Normalized the schema, added proper indexes, and built a JSON metadata structure to extract searchable attributes. Result: people could actually find what they needed.
+
+- **Sluggish APIs** – on a HR platform, some endpoints were taking seconds to respond. Added Redis caching on frequent reads and rewrote a few ORM queries that were doing N+1. Response time dropped by about 35% without changing the business logic.
+
+- **Permission hell** – built a role‑based system where different user types (admins, managers, staff) needed different access levels. Mapped it all out in code, wrote tests for every edge case, and made sure no one could see data they shouldn't.
+
+- **Async without the headache** – moved email sending and notification processing to Celery so the API could stay snappy. Made sure retries and failures were handled gracefully so users never noticed.
 
 ---
 
-## 📊 GitHub Activity (auto‑generated, don't overthink it)
+## 🧪 One project I'm proud of
+
+**[FastAPI Authentication System](https://github.com/moeinrezai/FastAPI-Authentication)** – a complete auth backend with access/refresh tokens, rotation, blacklisting, HttpOnly cookies, device tracking, and RBAC.  
+Built with FastAPI, Pydantic, SQLAlchemy, PostgreSQL.  
+Currently at 106 passing tests and 64% coverage – still adding more.
+
+---
+
+## 🛠 Tech I use daily
+
+| Area | Tools |
+|------|-------|
+| **Languages** | Python (3.10+) |
+| **Frameworks** | Django, DRF, FastAPI |
+| **Databases** | PostgreSQL, Redis |
+| **ORMs** | Django ORM, SQLAlchemy |
+| **Infra** | Docker, Docker Compose, Nginx, Gunicorn |
+| **Testing** | Pytest, Locust |
+| **CI/CD** | GitHub Actions |
+| **Other** | Celery, JWT, OpenAPI, n8n |
+
+---
+
+## 📊 GitHub stats (just for show)
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=moeinrezai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinrezai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=moeinrezai&theme=tokyonight&hide_border=true" alt="Streak"/>
 </div>
 
 ---
 
-## 💡 One thing I believe
+## 📫 Let's talk
 
-> Good code isn't just about today – it's about the next person who reads it at 2 AM. I try to keep things simple, test the critical paths, and never trust user input.
+If you're working on something interesting, or just want to geek out about database indexing or authentication flows – hit me up.
 
----
-
-## 🌍 Languages
-
-**Persian** – native · **English** – advanced reading/writing, intermediate listening
+- **Email:** moeinrezaie516@gmail.com  
+- **LinkedIn:** [moein-rezaie](https://linkedin.com/in/moein-rezaie-846a61349)  
+- **Telegram:** [@moein9401](https://t.me/moein9401)
 
 ---
 
 <div align="center">
-  <i>Thanks for stopping by – feel free to reach out if you want to talk backend stuff.</i>
+  <sub>Thanks for visiting. Now go write some clean code.</sub>
 </div>
