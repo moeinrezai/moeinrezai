@@ -73,10 +73,9 @@ I don't claim to know everything. When I hit a wall, I dig until I understand th
 
 - **[FastAPI Authentication](https://github.com/moeinrezai/FastAPI-Authentication)** – complete auth with JWT, rotation, blacklisting, HttpOnly cookies, device tracking, RBAC. 106 tests passing.
 
-- **[Django DeepSeek Consultant](https://github.com/moeinrezai/Django-DeepSeek-Consultant)** – experimenting with AI-assisted backend development and code generation.
+- **[Drf-Authentication-JWT](https://github.com/moeinrezai/drf-authentication-jwt)** – DRF Authentication with JWT Modular, scalable JWT authentication system built with Django REST Framework. Includes user registration, login, token refresh, blacklist, and customizable permission logic. Designed for production-ready SaaS backends with atomic operations and clean API boundaries.
 
-- **[Real‑Estate Backend](https://github.com/moeinrezai/Real-Estate-Backend)** – property management API with Django, DRF, PostgreSQL, and Redis.
-
+- **[Django-Secure-Auth](https://github.com/moeinrezai/django-secure-auth)** – A security-focused Django REST Framework authentication platform featuring JWT access/refresh tokens, refresh token rotation and reuse detection, Iranian phone OTP authentication, Redis-based rate limiting and hybrid state management, session tracking, RBAC, audit logging, device/IP tracking, and comprehensive security testing.
 ---
 
 ## 🛠 Tech I actually use daily
@@ -107,7 +106,6 @@ I don't chase shiny tools; these are what I reach for to get real work done.
 
 ## 📫 Let's talk
 
-If you're working on something interesting, or just want to geek out about database indexing or authentication flows – hit me up.
 
 <div align="center">
   <a href="https://linkedin.com/in/moein-rezaie-846a61349">
