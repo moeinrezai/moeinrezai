@@ -38,9 +38,9 @@
 
 ## 👋 Hi there
 
-I write backend code that doesn't make you cringe six months later.
+I've been building backend systems for about 4 years now – mostly with Python, Django, and FastAPI.
 
-Python is my main tool. I've worked with Django, DRF, FastAPI, PostgreSQL, Redis, and Docker – but more importantly, I've learned how to keep things **simple, secure, and maintainable** even when requirements change mid‑sprint.
+My goal is simple: write code that works, stays secure, and doesn't make you cringe six months later. I've dealt with messy product databases, slow APIs, tricky permission systems, and async jobs that needed to be reliable.
 
 I don't claim to know everything. When I hit a wall, I dig until I understand the problem, then I fix it properly. No band‑aids.
 
@@ -53,31 +53,35 @@ I don't claim to know everything. When I hit a wall, I dig until I understand th
 - Making PostgreSQL queries fast – indexing, query planning, and ORM tuning
 - Background jobs with Celery + Redis without making the system fragile
 - Writing tests that catch bugs before they reach production
-- Keeping the whole thing running with Docker, Nginx, and some GitHub Actions
+- Keeping the whole thing running with Docker, Nginx, and GitHub Actions
 
 ---
 
-## 🔥 A few real problems I've solved
+## 🔥 Some things I've built
 
-- **Messy product data** – worked with a database of 10,000+ construction products where names were inconsistent, brands mixed, and units all over the place. Normalized the schema, added proper indexes, and built a JSON metadata structure to extract searchable attributes. Result: people could actually find what they needed.
+- **Product data cleanup** – worked with a database of 10,000+ construction products where names were inconsistent and units all over the place. Normalized the schema, added indexes, and built a JSON metadata structure to make search actually work.
 
-- **Sluggish APIs** – on a HR platform, some endpoints were taking seconds to respond. Added Redis caching on frequent reads and rewrote a few ORM queries that were doing N+1. Response time dropped by about 35% without changing the business logic.
+- **API performance fix** – on a HR platform, some endpoints were taking seconds. Added Redis caching and rewrote N+1 queries. Response time dropped by ~35% without changing business logic.
 
-- **Permission hell** – built a role‑based system where different user types (admins, managers, staff) needed different access levels. Mapped it all out in code, wrote tests for every edge case, and made sure no one could see data they shouldn't.
+- **Permission system** – built a role‑based system for different user types (admins, managers, staff). Mapped access rules in code, wrote tests for every edge case, made sure no one saw data they shouldn't.
 
-- **Async without the headache** – moved email sending and notification processing to Celery so the API could stay snappy. Made sure retries and failures were handled gracefully so users never noticed.
-
----
-
-## 🧪 One project I'm proud of
-
-**[FastAPI Authentication System](https://github.com/moeinrezai/FastAPI-Authentication)** – a complete auth backend with access/refresh tokens, rotation, blacklisting, HttpOnly cookies, device tracking, and RBAC.  
-Built with FastAPI, Pydantic, SQLAlchemy, PostgreSQL.  
-Currently at 106 passing tests and 64% coverage – still adding more.
+- **Async jobs** – moved email and notification processing to Celery, kept APIs snappy. Handled retries and failures gracefully.
 
 ---
 
-## 🛠 Tech I use daily
+## 🧪 Projects I'm proud of
+
+- **[FastAPI Authentication](https://github.com/moeinrezai/FastAPI-Authentication)** – complete auth with JWT, rotation, blacklisting, HttpOnly cookies, device tracking, RBAC. 106 tests passing.
+
+- **[Django DeepSeek Consultant](https://github.com/moeinrezai/Django-DeepSeek-Consultant)** – experimenting with AI-assisted backend development and code generation.
+
+- **[Real‑Estate Backend](https://github.com/moeinrezai/Real-Estate-Backend)** – property management API with Django, DRF, PostgreSQL, and Redis.
+
+---
+
+## 🛠 Tech I actually use daily
+
+I don't chase shiny tools; these are what I reach for to get real work done.
 
 | Area | Tools |
 |------|-------|
@@ -105,11 +109,19 @@ Currently at 106 passing tests and 64% coverage – still adding more.
 
 If you're working on something interesting, or just want to geek out about database indexing or authentication flows – hit me up.
 
-- **Email:** moeinrezaie516@gmail.com  
-- **LinkedIn:** [moein-rezaie](https://linkedin.com/in/moein-rezaie-846a61349)  
-- **Telegram:** [@moein9401](https://t.me/moein9401)
+<div align="center">
+  <a href="https://linkedin.com/in/moein-rezaie-846a61349">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:moeinrezaie516@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/moein9401">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 
----
+<br>
 
 <div align="center">
   <sub>Thanks for visiting. Now go write some clean code.</sub>
