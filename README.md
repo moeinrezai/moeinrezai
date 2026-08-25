@@ -71,7 +71,7 @@ I don't claim to know everything. When I hit a wall, I dig until I understand th
 
 ## 🧪 Projects I'm proud of
 
-- **[FastAPI Authentication](https://github.com/moeinrezai/FastAPI-Authentication)** – complete auth with JWT, rotation, blacklisting, HttpOnly cookies, device tracking, RBAC. 106 tests passing.
+- **[FastAPI Authentication](https://github.com/moeinrezai/FastAPI-Authentication)** – A secure and production-oriented FastAPI authentication system with JWT, RBAC, session management, HttpOnly cookies, token rotation, device fingerprinting, and security features. 106 tests passing.
 
 - **[Drf-Authentication-JWT](https://github.com/moeinrezai/drf-authentication-jwt)** – DRF Authentication with JWT Modular, scalable JWT authentication system built with Django REST Framework. Includes user registration, login, token refresh, blacklist, and customizable permission logic. Designed for production-ready SaaS backends with atomic operations and clean API boundaries.
 
